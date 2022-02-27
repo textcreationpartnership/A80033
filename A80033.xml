@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact diarie. Or A breife relation of the progresse of Sir William Wallers army since the joyning of the London avxilliaries with his forces: which was the twelfth of May 1644. untill their returne homeward on Thursday the 11 of Iuly following. Relating the perticulars of every skirmish battle and march dureing the said time. By Richard Coe under Cap. Gore of the Tower Hamlets who was present in the whole expedition.</title>
+            <author>Coe, Richard, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80033</idno>
+            <idno type="STC">Wing C4881</idno>
+            <idno type="STC">Thomason E2_20</idno>
+            <idno type="STC">ESTC R288</idno>
+            <idno type="EEBO-CITATION">99872212</idno>
+            <idno type="PROQUEST">99872212</idno>
+            <idno type="VID">154659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154659)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E2[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact diarie. Or A breife relation of the progresse of Sir William Wallers army since the joyning of the London avxilliaries with his forces: which was the twelfth of May 1644. untill their returne homeward on Thursday the 11 of Iuly following. Relating the perticulars of every skirmish battle and march dureing the said time. By Richard Coe under Cap. Gore of the Tower Hamlets who was present in the whole expedition.</title>
+                  <author>Coe, Richard, 17th cent.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order for Humphrey Tuckey at the black spread Eagle in fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 19, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154659:1" rendition="simple:additions"/>
+            <p> 
+               <hi>AN EXACT DIARIE.</hi> Or a breife RELATION Of the progreſſe of Sir <hi>WILLIAM WALLERS</hi> Army ſince the joyning of the LONDON AVXILLIARIES with his Forces: which was the twelfth of <hi>May</hi> 1644. untill their returne homeward on thurſday the 11 of <hi>Iuly</hi> following. Relating the perticulars of every Skirmiſh Battle and March dureing the ſaid time.</p>
+            <p>By <hi>Richard Coe</hi> under Cap. <hi>Gore</hi> of the Tower Hamlets who was preſent in the whole expedition.</p>
+            <p>LONDON Printed according to order for <hi>Humphrey Tuckey</hi> at the black ſpread Eagle in fleetſtreet <hi>Iuly</hi> 19 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154659:2"/>
+            <head>A true Relation of the Progreſſe of the <hi>LONDON</hi> Auxillaries ſince their Ioyning with Sir <hi>Willi<g ref="char:EOLhyphen"/>am Waller</hi> untill their returne homewards.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing marched from <hi>London</hi> to <hi>Farnham</hi> which was our generall randevous there wee joyned with Sir <hi>William Wallers</hi> forces, he being our Generall and Sir <hi>Iames Harrington</hi> Maior Ge<g ref="char:EOLhyphen"/>nerall over the Citty <hi>Brigade.</hi>
+            </p>
+            <p>On Munday the 13 of <hi>May</hi> 1644. Sir <hi>Willi<g ref="char:EOLhyphen"/>am Waller</hi> gave order for all the Regiments both horſe and foote belonging to him to meete next morning in the <hi>Parke</hi> behynd the Caſtle which was done ac<g ref="char:EOLhyphen"/>cordingly there wee lay 3 nights (our Army conſiſted of 8 Regi<g ref="char:EOLhyphen"/>ments of horſe, and as many foote, being in all about 9 or 10 thouſand, 24 peeces of Ordnance great and ſmall, many leather guns and a<g ref="char:EOLhyphen"/>bout 60 wagons for provant and Ammunition, on friday the 17 we were commanded to march but knew not then whether, that day and all night wee marched, next day being Saturday wee came to <hi>Bagſhotte</hi> where our City <hi>Brigade</hi> and the Kentiſh Regiment were quartered in the Parke, where was plenty of mutton veale and lambe ſome veniſon and good water but neither bread nor beere for mony, but what wee brought with us which was very little, there wee lay Saturday night and Sunday and on munday had order to march toward <hi>Baſing</hi> houſe, but came not thither that night for wee quartered at a place called <hi>Bramly</hi> houſe belonging to Mr <hi>Henly</hi> ſometime of the: Temple there wee wanted neither meat nor fireing but nothing els to bee gotten for love or money, on tewſday the 21
+<pb n="2" facs="tcp:154659:2"/> wee marched to <hi>Baſing</hi> houſe where wee came about 3 or 4 of the clocke in the afternoone they welcomed us with 2 or 3 peeces of Ordnance, and hung out 3 or 4 ſeverall Coullers, the Ordnance did no hurt only ſcared our vnder marſhall the blaſt blowing off his hate our horſe went round, faced the houſe, the enemy charged upon them, ſlue 2 horſe and one man of ours, wee ſaw 2 of their men fall on the breſt workes but no more to our veiw, there wee lay untill evening and it not being thought convenient to lay ſeidge to the houſe wee marched round the parke to <hi>Baſing</hi> ſtoke, the Enemy thinking wee had an intent to beleauger the houſe, burnt all the houſes and 2 mills neere adjacent becauſe wee ſhould have no ſhelter there, wee lay at <hi>Baſing ſtoake</hi> 3 nights and had indifferent good quar<g ref="char:EOLhyphen"/>ter for our money, but the inhabitants were fearfull they ſhould be ill dealt withal after our departure for entertaining us, they pay 40. l. <hi>per</hi> weeke towards the maintenance of the houſe, and that morning be<g ref="char:EOLhyphen"/>fore wee came in, they had payed that weekes money: one thurſ<g ref="char:EOLhyphen"/>day the 24 wee marched towards <hi>Abington</hi> and makeing a halt 2 miles onward in our way, there were brought unto us 20 priſo<g ref="char:EOLhyphen"/>ners or there abouts horſe and foote; that night wee lay at <hi>Alder<g ref="char:EOLhyphen"/>marſon</hi> in the feild and one friday likewiſe, one ſaturday wee mar<g ref="char:EOLhyphen"/>ched to <hi>Compton</hi> in the hole; this morning a ſouldier of my Captains Company whoſe name is <hi>Gore)</hi> was ſhot by accident and ſent for <hi>London,</hi> in the after noone an other of our Regiment had the like miſchance, wee deſcried this day ſome of my Lord Generalls Cul<g ref="char:EOLhyphen"/>lours to march wide of us towards <hi>Abington,</hi> that night wee lay at <hi>Compton</hi> a durty town, but wee had good reſpect for our moneys; one ſunday the 27 wee marched towards <hi>Abington</hi> and in our march Sir <hi>Iohn Merricke</hi> came to us who ſaluted our Commanders nobly and was wellcomed of us with much ioy and ſhoutings, hee told us my Lord Generals forces were that night to quarter in <hi>Abington,</hi> (they conſiſted of 14 or 15 thouſand horſe and foote<g ref="char:punc">▪</g> great ſtore of Ammunition and provant: our forces could not march to <hi>Abington</hi> that night, there being no quarter to entertaine a ſuch Armies; there<g ref="char:EOLhyphen"/>fore ſunday night, and munday night we lay wide of <hi>Abington,</hi> and one tewſday hearing my Lords Army to bee marched away, we followed in the reare and went through <hi>Abington</hi> after my Lords army, (by the way wee ſaw 2 of my Lords men hanged for violence
+<pb n="3" facs="tcp:154659:3"/> and plundring) it was written ſo on their breaſts, and that night wee lay at <hi>Newnam</hi> wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d where we burnt (it being rainy weather) I be<g ref="char:EOLhyphen"/>leive 50 pounds worth of wood if not more, next morning wee marched forward in ſight of <hi>Oxford,</hi> and my Lords army marched within a mile of our army or thereabouts wee heard how kindly the City and my Lords Gunns entertained each other, my Lord tooke divers priſoners, and many came to him out of the towne, we were on thu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſday commanded to retreat to regaine a bridge called <hi>New<g ref="char:EOLhyphen"/>bridge,</hi> held b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kings forces which we did, and that night and friday lay at <hi>Abington,</hi> and one ſaturday (the croſe being firſt pluckt downe by whoſe means I know not) wee marched for <hi>Newbridge,</hi> and being come within a mile or there abouts 2 files of each com<g ref="char:EOLhyphen"/>pany were drawne out for a forlorne hope Captaine <hi>Gore</hi> of the hamlets, and a Captaine of the Kentiſh Regiment leading them on which they did with ſuch willingneſſe and courage, as deſerves to bee remembred and admired, for notwithſtanding the enemy had cut of parte of the bridge, and made it unpaſſable, yet our Commanders with a boat or a called Punts and ſome Plankes fell on ſo bravely that they made them forſake the bridge, tooke 30 priſoners upon quarter and 40 more among which were divers Iriſh, and a wo<g ref="char:EOLhyphen"/>man who was whipt and turned away, by <hi>Newbridge</hi> we lay 3 nights to make the bridge paſſable for our carriages, and on teuſday the 4. of <hi>june</hi> (hearing his Majeſty with ſome forces were marched ſuddainly from <hi>Oxford</hi> weſtward) we marched after all day and night, and came a little before day nere <hi>Witney</hi> where we were quartered under a hedge 3 or 4 houres, it rained extreamely as it had done for the moſt part ſince our advance from <hi>Farnham</hi> till then, on wedneſday morning we marched towards <hi>Stow</hi> on the old being informed the Kings Majeſtie with his forces were marched for <hi>Burford</hi> and that way, which wee found true, for comeing to our randevous by <hi>Burford,</hi> wee were certified the King ſupped there that night<g ref="char:punc">▪</g> but rod away immediatly: wee ſtaid not at all not ſo much as to get beere bread or vvater but vvere commanded b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> maior Gene<g ref="char:EOLhyphen"/>rall <hi>Potlid</hi> under Sir <hi>Williams</hi> command to march round the Towne, with all ſpeed affirming the Kings forces and our horſe to bee in fight vvhich vvas nothing ſo, that morning divers of the Kings Souldiers vvere taken, vvee marched that vvedneſday to <hi>Stow</hi> on
+<pb n="4" facs="tcp:154659:3"/> on the old in <hi>Gloceſterſhire,</hi> where we lay Wedneſday, Thurſday and Friday, and on Saturday morning we marched toward <hi>Winchcombe,</hi> but before we marched, a Gunner of ours was hanged for violence and plundering, we came that Saturday the eighth of <hi>Iune</hi> neere the Towne, faced <hi>Shudly</hi> Caſtle, drew out of every Company certaine Files for a Forlorne hope, marched to the Caſtle about nine or ten of the clocke, lay juſt under the Walls, expecting order to fall on, they had ſet fire of a ſtately Barne adjoyning to the houſe, becauſe wee ſhould have no harbour, that evening one of our great peeces play<g ref="char:EOLhyphen"/>ing on the Caſtle, ſhot the Gunner of the Caſtle in peeces, which ſo daunted them, that in the morning without a ſhot it was yeelded up, there being taken in the Caſtle theſe Commanders following; Sir <hi>William Morton,</hi> Governour; Lievetenant Collonel <hi>Sawyer,</hi> Major <hi>Ouldham</hi> Major <hi>Floyd,</hi> Captaines, <hi>Colt, Merrilla, Bankes</hi> of Cheapſide, <hi>Pitwell,</hi> and <hi>Andrewes</hi> Lievtenants, <hi>Dogerfield, Thornbury, Floyd Quillet Munford Duncombe,</hi> Cornet <hi>Burt.</hi> 6. Enſignes, 2 Maſſ-prieſts <hi>Dun</hi> and <hi>Prat,</hi> 250. common ſouldiers 3 peeces of Ordnance, 32 peeces of Cloth, many Featherbeds with furniture, Ammunition and provant for ſouldiers, 100. quarters of graine, or more, ſome cattell and horſes, ſome Plate and money, there we ſtayed untill Munday, and marched towards <hi>Eaſum,</hi> where we lay Munday, Tueſday, and Wedneſday, before we came thither a ſouldier was hanged which was taken at <hi>Newbridge,</hi> and entertai<g ref="char:EOLhyphen"/>ned by us, having taken the Covenant, and then taken running away. On Thurſday we came to <hi>Bramſgrave,</hi> where we quartered that night, and on Friday the 14, of <hi>Iune</hi> to <hi>Strubridge,</hi> and ſo to <hi>Wordſly,</hi> where we quartered neere <hi>Du<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi> Caſtle, there we lay 3. nights ha<g ref="char:EOLhyphen"/>ving ſome <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utton, bread, cheeſe, and beere, ſent to us out of the Countrey; On munday we marched toward <hi>Saltwich</hi> and in our match at <hi>Harvington</hi> we light on a Papiſt widows houſe (but ſhee not at home) the ſouldiers tooke all in the houſe, as Pewter, Braſſe, Bedding, great ſtore of Bookes, &amp;c. her name was Miſtris <hi>Packing<g ref="char:EOLhyphen"/>ton</hi> then at <hi>Worcester;</hi> we lay that night at <hi>Saltwich</hi> and lying in the ſalt Cellers, grew ſo drie, that we drunke the Towne drie, and ſo marched toward <hi>Parciall,</hi> where we lay on Tueſday night (neere the Towne n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t being ſuffered to come in; this Towne hath beene alwayes opponent to the Parliament, which God hath puniſhed in
+<pb n="5" facs="tcp:154659:4"/> this wiſe, for on the eleventh of <hi>Iune,</hi> hearing our forces to be ad<g ref="char:EOLhyphen"/>vancing that way, there being two great Monſieur Dammee com<g ref="char:EOLhyphen"/>manders, appointed overſeers of the Workes, whom all the Townſ<g ref="char:EOLhyphen"/>men vvere willing to obey, and according to their command reſol<g ref="char:EOLhyphen"/>ved to cut off the Bridge fell eagerly at vvorke, and had cut dovvne three Arches, but God ſuffered them not to goe forward, for part of the reſt fell on theſe great Commanders, who with 60 of the Townſ<g ref="char:EOLhyphen"/>men were drowned and ſlaine, leaving many Widows and Fatherleſſe children behind them.</p>
+            <p>Thence we marched towards <hi>Tewxbury</hi> where the citty Brigade were quartered wedneſday and Thurſday in the church ſome in the towne and ſome without, on Friday the 21. of <hi>June</hi> we marched to<g ref="char:EOLhyphen"/>wards <hi>Glouceſter</hi> and lay wide of <hi>Gloucester</hi> that night &amp; on Saterday intending to march back towards <hi>Stow,</hi> loſt our way, and went back<g ref="char:EOLhyphen"/>ward and forward within a mile where we lay before, at a place cal<g ref="char:EOLhyphen"/>led <hi>Willingcot,</hi> from thence to <hi>Chelthenham<g ref="char:punc">▪</g>
+               </hi> and ſo back that Saturday night; the reſt of our men were marched towards <hi>Stow,</hi> whom wee overtooke, and that night quartered in the fields, the next day being Munday the 24 of <hi>Iune</hi> we marched by <hi>Stow,</hi> and quartered beyond the Towne two miles, and the next day to <hi>Shipſon</hi> upon <hi>Stower,</hi> neere which ſome were quartered, and ſome in the Towne, there we lay two nights, and on VVedneſday we lay in the fields; on Thurſday we marched toward <hi>Banburie,</hi> and lay at <hi>Hanwel</hi> that night; next day being <hi>Friday,</hi> we were commanded to be in Batalia, and marched out of the paſture ground into the Corne fields, where we diſcovered the Kings Forces beyond <hi>Banbury</hi> under <hi>Preſton</hi> Mills, and they us: our Horſe and they faced one the other, the water being betweene them and us, we not willing to venture betweene them and the Caſtle, they not daring to come over to us, there we lay all night, but knew not their minds, as they it ſeemes did ours. For early on Saturday the 29. of <hi>Iune</hi> they marched with their whole body, but whether we could not diſcover, the water being betweene us and them, wee likewiſe marched away, and by ſome Scouts found which way they were gone, Collonel <hi>Wem</hi> Commander in chiefe for Sir <hi>Williams</hi> owne Brigade led the Van, had ſome certaine Horſe and Dragoons, and ſpying a wing of the Enemies in ſight imagining the reſt of the body to be gone before, marched over venterouſly, and charged the
+<pb n="6" facs="tcp:154659:4"/> Enemie, who retreated, to their maine body, our Forces following them were overmatcht and ſo loſt ſome men and ſome Drakes, with 3. Colours the reſt were forced to retreat, and came over a Bridge called <hi>Crapridden,</hi> crying the fields loſt, the fields loſt: but by Gods providence and the courage of the Kentiſh Regiment and the Citie Hamlets, we got downe two Drakes to the Bridge and ſtayed them off ſo bravely, and gave them ſo good play all day, that ere night they could not brag of their winnings, there we lay all night, looking one upon the other (when ſleepe would give leave.) Next morning thoſe that had wearied themſelves, Saturday, and that night marched up to our body, where we lay all Sunday facing one the other, but did little; at 10 or 11. a clocke at night a fooliſh fel<g ref="char:EOLhyphen"/>low of our Regiment, ſhot off his Musket, (the Watch being ſet) which made an Alarum in the Enemies quarters, they ſhot at our Forlorne hope, which lay downe by their Workes, and wee ſhot at them, but we were there over-cunning for them, for our Fire-locks were placed under a hedge, and light match hung alone on palliſa<g ref="char:EOLhyphen"/>does a Musket ſhot off; before day they diſcharged a peece of Ord<g ref="char:EOLhyphen"/>nance, and gave us an Alarum likewiſe, we made our ſelves ready to entertaine it, but heard no more of them, for aſſoone as day approch<g ref="char:EOLhyphen"/>ed we miſſed them, and they were marched away, we marched down to the Bridge, and as we marched, ſpied that ſide of Banbury next to us on fire, which the Caſtle had done for giving ſome ſmall enter<g ref="char:EOLhyphen"/>tainment to our ſouldiers, then we marched over the Bridge where<g ref="char:EOLhyphen"/>in our march up the lane to <hi>Moriton,</hi> a mile off the Bridge (which lane the enemy enjoyed before) we found many dead corps lying naked and unburied, 40 graves in the high-way, and many ſtately horſes, and in the Church and Church-yard at <hi>Moriton,</hi> were many Com<g ref="char:EOLhyphen"/>manders buried who had beene flame in the fight, one Lord (as the Countrey men ſay) 2. Collonels, and other Officers. We marched thence on Munday the firſt of <hi>Iuly,</hi> and that night we lay at a poore Village called <hi>Preſton,</hi> which had beene former<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y burnt; on Tueſday toward <hi>Torciter,</hi> where we met Major <hi>Browne</hi> and his forces, who marched with us (we lying Tueſday and Wedneſday neere <hi>Torciter)</hi> On Thurſday we marched toward <hi>Northampton,</hi> where hee left our Forces and went for <hi>Greenland</hi> Houſe, which he hath ſince taken, being
+<pb n="7" facs="tcp:154659:5"/> then 7000. Horſe and Foot; Wee have ſince our advance from <hi>Farnham,</hi> marched 500. miles and upwards, and loſt very few of our City Brigade, no Commanders except Collonel <hi>Hoblin,</hi> and Cap<g ref="char:EOLhyphen"/>tain <hi>Grove</hi> of the white Auxilliaries, both good Commanders, who falling ſicke after we came from <hi>Banbury,</hi> and dying in <hi>Northampton,</hi> are both brought up to be buried here in <hi>London,</hi> their whole Regi<g ref="char:EOLhyphen"/>ment being likewiſe come up with the Colours; The <hi>Hamlets</hi> with Col<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onel Prince of the Yellow Regiment being daily expected (ac<g ref="char:EOLhyphen"/>cording to Sir <hi>Iames Harringtons</hi> promiſe, who is Major Generall of the City Brigade.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
